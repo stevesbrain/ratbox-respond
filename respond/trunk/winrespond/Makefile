@@ -3,7 +3,7 @@
 #
 # This likely will need to be edited for your machine
 #
-# $Id: Makefile,v 1.3 2003/01/02 02:36:44 wcampbel Exp $
+# $Id$
 
 all: winrespond.exe
 
