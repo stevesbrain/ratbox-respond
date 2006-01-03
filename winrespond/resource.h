@@ -1,6 +1,6 @@
 /* ircd-hybrid Windows RSA Respond tool
  * Resource Definitions
- * $Id: resource.h,v 1.2 2002/01/05 04:26:57 wcampbel Exp $
+ * $Id$
  */
 
 #ifndef IDC_STATIC

@@ -1,6 +1,6 @@
 /* ircd-ratbox Windows RSA Respond Tool
  * Copyright 2001
- * $Id: respond.rc,v 1.8 2003/01/02 02:36:44 wcampbel Exp $
+ * $Id$
  */
 #include <windows.h>
 #include "resource.h"

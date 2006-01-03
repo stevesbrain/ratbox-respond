@@ -43,4 +43,4 @@ with the OpenSSL libraries and development package.
 Run make
 To pare down the size of the binary, run 'strip winrespond.exe'
 
-# $Id: readme.txt,v 1.5 2003/01/02 02:36:44 wcampbel Exp $
+# $Id$
